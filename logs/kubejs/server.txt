@@ -1,0 +1,37 @@
+[10:32:42] [INFO ] AQM3 -- Balancing Silent Gear Recipes)
+[10:32:42] [INFO ] Loaded script server_scripts:silentgear/silentbalance.js in 0.002 s
+[10:32:42] [INFO ] AQM3 -- Removing Recipes....)
+[10:32:42] [INFO ] Loaded script server_scripts:remove.js in 0.002 s
+[10:32:42] [INFO ] AQM3 -- Modifying Gobber2)
+[10:32:42] [INFO ] Loaded script server_scripts:gobber2/gobber2.js in 0.005 s
+[10:32:42] [INFO ] AQM3 -- Removing Conflicts....)
+[10:32:42] [INFO ] Loaded script server_scripts:conflict.js in 0.001 s
+[10:32:42] [INFO ] AQM3 -- Balancing Ars Nouveau Recipes)
+[10:32:42] [INFO ] Loaded script server_scripts:ars/arsbalance.js in 0.002 s
+[10:32:42] [INFO ] AQM3 -- Balancing Mystical Agr.. Recipes)
+[10:32:42] [INFO ] Loaded script server_scripts:mystical/mysticalbalance.js in 0.001 s
+[10:32:42] [INFO ] AQM3 -- Modifying Recipes)
+[10:32:42] [INFO ] Loaded script server_scripts:balance.js in 0.005 s
+[10:32:42] [INFO ] AQM3 -- Removing Immersive Recipes)
+[10:32:42] [INFO ] Loaded script server_scripts:immersive/immersivremove.js in 0.0 s
+[10:32:42] [INFO ] AQM3 -- Modifying ArmorPlus)
+[10:32:42] [INFO ] Loaded script server_scripts:armorplus/armorplus.js in 0.001 s
+[10:32:42] [INFO ] Loaded 9/9 KubeJS server scripts in 0.023 s
+[10:32:42] [INFO ] Scripts loaded
+[10:32:42] [INFO ] Scanning recipes...
+[10:32:42] [INFO ] [tunnel_types] Found 0 tags, added 0 objects, removed 0 objects
+[10:32:42] [INFO ] [potions] Found 0 tags, added 0 objects, removed 0 objects
+[10:32:42] [INFO ] [mob_effects] Found 1 tags, added 0 objects, removed 0 objects
+[10:32:42] [INFO ] [game_events] Found 2 tags, added 0 objects, removed 0 objects
+[10:32:42] [INFO ] [block_entity_types] Found 3 tags, added 0 objects, removed 0 objects
+[10:32:42] [INFO ] [functions] Found 0 tags, added 0 objects, removed 0 objects
+[10:32:42] [INFO ] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
+[10:32:42] [INFO ] [entity_types] Found 76 tags, added 0 objects, removed 0 objects
+[10:32:42] [INFO ] [fluids] Found 44 tags, added 0 objects, removed 0 objects
+[10:32:43] [INFO ] [blocks] Found 926 tags, added 0 objects, removed 0 objects
+[10:32:43] [INFO ] [items] Found 1764 tags, added 0 objects, removed 0 objects
+[10:32:45] [INFO ] Found 16624 recipes and 0 failed recipes in 572.7 ms
+[10:32:46] [INFO ] Posted recipe events in 730.9 ms
+[10:32:46] [INFO ] Modified & removed recipes in 229.9 ms
+[10:32:46] [INFO ] Added recipes in 8.376 ms
+[10:32:46] [INFO ] Added 56 recipes, removed 156 recipes, modified 51 recipes, with 0 failed recipes and 0 fall-backed recipes

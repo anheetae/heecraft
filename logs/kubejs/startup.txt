@@ -1,0 +1,7 @@
+[10:31:55] [INFO ] Start up scripts.... AQM3
+[10:31:55] [INFO ] Loaded script startup_scripts:script.js in 0.091 s
+[10:31:55] [INFO ] Modifying AQM3 Items...
+[10:31:55] [INFO ] Loaded script startup_scripts:startwpns.js in 0.003 s
+[10:31:55] [INFO ] Creating AQM3 Items...
+[10:31:55] [INFO ] Loaded script startup_scripts:aqmitems.js in 0.002 s
+[10:31:55] [INFO ] Loaded 3/3 KubeJS startup scripts in 0.267 s
