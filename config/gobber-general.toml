@@ -4,8 +4,8 @@
 	#Maximal height for Gobber Lucky Block Nether pocket generation [0-255, default: 255]
 	#Range: 0 ~ 255
 	gobberLuckyBlockNetherMaxHeight = 255
-	#Size of Gobber Lucky Block Nether pockets [0-100, default: 4]
-	#Range: 0 ~ 100
+	#Size of Gobber Lucky Block Nether pockets [3-100, default: 4]
+	#Range: 3 ~ 100
 	gobberLuckyBlockNetherSize = 4
 	#Minimal height for Gobber Lucky Block Nether pocket generation, [0-255, default: 1]
 	#Range: 0 ~ 255
@@ -121,8 +121,8 @@
 	gobberOreDeepslateChance = 8
 	#Generate Gobber Ore Deepslate in the world [true / false]
 	gobberOreDeepslateGeneration = true
-	#Size of Gobber Ore Deepslate pockets [0-100, default: 4]
-	#Range: 0 ~ 100
+	#Size of Gobber Ore Deepslate pockets [3-100, default: 4]
+	#Range: 3 ~ 100
 	gobberOreDeepslateSize = 3
 
 #Armor Health Perks Settings
@@ -245,9 +245,9 @@
 [gobber2_lucky_block]
 	#Generate Gobber Lucky Block in the world [true / false]
 	gobberLuckyBlockGeneration = true
-	#Size of Gobber Lucky Block pockets [0-100, default: 4]
-	#Range: 0 ~ 100
-	gobberLuckyBlockSize = 1
+	#Size of Gobber Lucky Block pockets [3-100, default: 4]
+	#Range: 3 ~ 100
+	gobberLuckyBlockSize = 3
 	#Chances of Gobber Lucky Block pocket being generated [0-30, default: 20]
 	#Range: 0 ~ 30
 	gobberLuckyBlockChance = 9
@@ -306,8 +306,8 @@
 [gobber2_ore]
 	#Generate Gobber Ore in the world [true / false]
 	gobberOreGeneration = true
-	#Size of Gobber Ore pockets [0-100, default: 4]
-	#Range: 0 ~ 100
+	#Size of Gobber Ore pockets [3-100, default: 4]
+	#Range: 3 ~ 100
 	gobberOreSize = 3
 	#Chances of Gobber Ore pocket being generated [0-30, default: 15]
 	#Range: 0 ~ 30
@@ -381,8 +381,8 @@
 [gobber2_lucky_block_deepslate]
 	#Generate Gobber Lucky Block Deepslate in the world [true / false]
 	gobberLuckyBlockDeepslateGeneration = true
-	#Size of Gobber Lucky Block Deepslate pockets [0-100, default: 4]
-	#Range: 0 ~ 100
+	#Size of Gobber Lucky Block Deepslate pockets [3-100, default: 4]
+	#Range: 3 ~ 100
 	gobberLuckyBlockDeepslateSize = 3
 	#Chances of Gobber Lucky Block Deepslate pocket being generated [0-30, default: 20]
 	#Range: 0 ~ 30
@@ -456,8 +456,8 @@
 	gobberOreNetherMinHeight = 40
 	#Generate Gobber Nether Ore in the world [true / false]
 	gobberOreNetherGeneration = true
-	#Size of Gobber Nether Ore pockets [0-100, default: 3]
-	#Range: 0 ~ 100
+	#Size of Gobber Nether Ore pockets [3-100, default: 3]
+	#Range: 3 ~ 100
 	gobberOreNetherSize = 4
 	#Chances of Gobber Nether Ore pocket being generated [0-30, default: 15]
 	#Range: 0 ~ 30
