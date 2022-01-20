@@ -60,6 +60,7 @@
 	#How many cuckoo bees can spawn from a nest before it shuts off
 	#Range: > 0
 	cuckooSpawnCount = 2
+	#Chance of catching a bee when fishing
 	#Range: 0.0 ~ 1.0
 	fishingBeeChance = 0.05
 
@@ -84,7 +85,7 @@
 	typeGenePurity = 33
 
 [Worldgen]
-	#Which nests should generate in the level. Nest will still be craftable and attract bees when placed in the level.
+	#Which nests should generate in the level. Nest will still be craftable and attract bees when placed in the world.
 	"enable_productivebees:oak_wood_nest" = true
 	"enable_productivebees:spruce_wood_nest" = true
 	"enable_productivebees:dark_oak_wood_nest" = true

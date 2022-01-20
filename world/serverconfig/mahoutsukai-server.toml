@@ -1119,6 +1119,20 @@
 		#Rule Breaker Item Whitelist
 		RULE_BREAKER_ITEM_WHITELIST = ["minecraft:chorus_fruit"]
 
+	[secret."selective displacement"]
+		#Selective Displacement Time
+		#Range: 0 ~ 10000000
+		SELECTIVE_DISPLACEMENT_TIME = 1200
+		#Selective Displacement Range
+		#Range: 0 ~ 10000000
+		SELECTIVE_DISPLACEMENT_RANGE = 40
+		#Selective Displacement Cooldown
+		#Range: 0 ~ 10000000
+		SELECTIVE_DISPLACEMENT_COOLDOWN = 60
+		#Selective Displacement Mana Cost
+		#Range: 0 ~ 10000000
+		SELECTIVE_DISPLACEMENT_MANA_COST = 900
+
 [kodoku]
 	#mahoutsukai.config.kodoku_fire_chance.comment
 	#Range: 0.0 ~ 1.0
