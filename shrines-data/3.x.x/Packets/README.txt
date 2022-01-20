@@ -1,0 +1,1 @@
+https://github.com/Silverminer007/MinecraftModsUpdateChecker/blob/master/wiki/SelectLanguage.md
